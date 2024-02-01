@@ -1,0 +1,8 @@
+[package]
+name = "perceptive_agents"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.12"
+bevy_xpbd_3d = "0.3"
